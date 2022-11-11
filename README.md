@@ -32,4 +32,4 @@
 
 >rm-rf (deletar)
 
-[Instalação do Git](git_scm.com)
+[Instalar o Git](git-scm.com)
