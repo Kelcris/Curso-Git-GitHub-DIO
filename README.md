@@ -33,3 +33,11 @@
 >rm-rf (deletar)
 
 [Instalar o Git](git-scm.com)
+
+**Primeiros comandos com o Git**
+
+>git init (iniciar repositório do git)
+
+>git add (mover arquivos e dar início ao versionamento)
+
+>git commit (criar commit)
